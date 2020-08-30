@@ -1,0 +1,2 @@
+# Practica1DIAGRAMADECLASES
+Ejercicio2(.idea)DIAGRAMA DE CLASES
